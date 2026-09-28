@@ -9,11 +9,4 @@ To help BFSI teams understand their customer base, identify financial risk indic
 
 ## 2. 🛠️Tech Stack
 
-SQL
-DDL & DML
-SELECT, WHERE, GROUP BY, ORDER BY
-Aggregate Functions: COUNT, SUM, AVG, MIN, MAX
-CASE statements
-Filtering & conditional analysis
-Sorting, ranking and LIMIT
-Business-oriented analytical queries
+MySQL and SQL were used to build and analyze the BFSI dataset through data querying, filtering, aggregation, grouping, sorting, conditional analysis, and business-oriented calculations. SQL functions such as `COUNT`, `SUM`, `AVG`, `MIN`, `MAX`, `CASE`, etc were used to derive customer, account, loan, credit-risk, delinquency, and churn insights. **Power BI** can be used as the visualization layer to convert these analytical outputs into interactive dashboards with KPI cards, charts, tables, slicers, and drill-downs.
