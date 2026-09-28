@@ -7,7 +7,7 @@ The project transforms customer-level financial data into actionable business in
 **Purpose:**
 To help BFSI teams understand their customer base, identify financial risk indicators, evaluate loan performance, and support data-driven banking decisions.
 
-## 2. Tech Stack
+## 2. 🛠️Tech Stack
 
 SQL
 DDL & DML
