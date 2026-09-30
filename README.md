@@ -12,16 +12,11 @@ To help BFSI teams understand their customer base, identify financial risk indic
 MySQL and SQL were used to build and analyze the BFSI dataset through data querying, filtering, aggregation, grouping, sorting, conditional analysis, and business-oriented calculations. SQL functions such as `COUNT`, `SUM`, `AVG`, `MIN`, `MAX`, `CASE`, etc were used to derive customer, account, loan, credit-risk, delinquency, and churn insights. **Power BI** can be used as the visualization layer to convert these analytical outputs into interactive dashboards with KPI cards, charts, tables, slicers, and drill-downs.
 
 ## 3. 🌟Features / Highlights
-A. Customer Overview
-Provides a high-level view of the customer base, including total customers, customer distribution by state and city, average customer age, average annual income, and average credit score.
 
-Business Impact:
-Helps management understand the overall customer profile and identify major geographic and demographic concentrations.
-
-Suggested Visuals:
-
-Total Customers KPI
-Customers by State
-Customers by City
-Average Income KPI
-Average Credit Score KPI
+- **Customer Analysis:** Analyzed customer demographics, segments, income, credit scores, and geographic distribution.
+- **Banking Analysis:** Compared account types, customer counts, and average account balances.
+- **Loan Analysis:** Evaluated loan amounts, outstanding balances, loan types, and interest rates.
+- **Risk Analysis:** Identified low-credit customers, high credit-card utilization, overdue payments, and DPD > 30 days.
+- **Churn Analysis:** Measured Active, Dormant, and Churned customers to understand retention.
+- **Top Customer Insights:** Identified customers with the highest outstanding loans and account balances.
+- **Business Impact:** Converted raw BFSI data into actionable insights for customer, loan, risk, and retention analysis.
