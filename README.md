@@ -21,13 +21,12 @@ MySQL and SQL were used to build and analyze the BFSI dataset through data query
 - **Top Customer Insights:** Identified customers with the highest outstanding loans and account balances.
 - **Business Impact:** Converted raw BFSI data into actionable insights for customer, loan, risk, and retention analysis.
 
-## 4. Goal of the Dashboard
+## 4. 🎯Goal of the Dashboard
 
 **Primary Goal**
 To create an interactive BFSI analytics dashboard that converts customer and financial data into meaningful insights for customer profiling, banking performance analysis, loan monitoring, credit-risk identification, and churn analysis.
 
-Dashboard Objectives
-
+**Dashboard Objectives**
 Monitor customer health through customer count, demographics, segmentation and financial profiles.
 
 Analyze banking performance through account distribution and account-balance metrics.
