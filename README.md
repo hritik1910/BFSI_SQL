@@ -27,9 +27,9 @@ MySQL and SQL were used to build and analyze the BFSI dataset through data query
 To create an interactive BFSI analytics dashboard that converts customer and financial data into meaningful insights for customer profiling, banking performance analysis, loan monitoring, credit-risk identification, and churn analysis.
 
 **Dashboard Objectives**
-🔹Monitor customer health through customer count, demographics, segmentation and financial profiles.
-🔹Analyze banking performance through account distribution and account-balance metrics.
-🔹Evaluate loan portfolios using loan amount, outstanding balance, loan type and interest-rate analysis.
+🔹**Monitor customer health** through customer count, demographics, segmentation and financial profiles.
+🔹**Analyze banking performance** through account distribution and account-balance metrics.
+🔹**Evaluate loan portfolios** using loan amount, outstanding balance, loan type and interest-rate analysis.
 🔹Identify potential financial risk using credit scores, credit-card utilization, delinquency and Days Past Due indicators.
 🔹Track customer retention through Active, Dormant and Churned customer analysis.
 🔹Support data-driven decisions by bringing multiple BFSI KPIs into one interactive analytical view.
