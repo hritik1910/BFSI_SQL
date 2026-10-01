@@ -33,3 +33,6 @@ To create an interactive BFSI analytics dashboard that converts customer and fin
 🔹**Identify potential financial risk** using credit scores, credit-card utilization, delinquency and Days Past Due indicators.
 🔹**Track customer retention** through Active, Dormant and Churned customer analysis.
 🔹**Support data-driven decisions** by bringing multiple BFSI KPIs into one interactive analytical view.
+
+## 5. 📸Screenshot
+
