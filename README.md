@@ -30,6 +30,6 @@ To create an interactive BFSI analytics dashboard that converts customer and fin
 🔹**Monitor customer health** through customer count, demographics, segmentation and financial profiles.
 🔹**Analyze banking performance** through account distribution and account-balance metrics.
 🔹**Evaluate loan portfolios** using loan amount, outstanding balance, loan type and interest-rate analysis.
-🔹Identify potential financial risk using credit scores, credit-card utilization, delinquency and Days Past Due indicators.
-🔹Track customer retention through Active, Dormant and Churned customer analysis.
-🔹Support data-driven decisions by bringing multiple BFSI KPIs into one interactive analytical view.
+🔹**Identify potential financial risk** using credit scores, credit-card utilization, delinquency and Days Past Due indicators.
+🔹**Track customer retention** through Active, Dormant and Churned customer analysis.
+🔹**Support data-driven decisions** by bringing multiple BFSI KPIs into one interactive analytical view.
