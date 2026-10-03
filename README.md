@@ -36,3 +36,4 @@ To create an interactive BFSI analytics dashboard that converts customer and fin
 
 ## 5. 📸Screenshot
 ![Alt Text](https://github.com/hritik1910/BFSI_SQL/blob/986d4ac24c83979bb06918bef272a7ed9ad5d042/BFSI_Level_Intermediate_2.png)
+![Alt Text](https://github.com/hritik1910/BFSI_SQL/blob/b76645a0676cf1d607a8f4d217596972f14f5e7f/BFSI_Level_Intermediate.png)
