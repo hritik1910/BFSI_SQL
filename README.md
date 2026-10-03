@@ -35,4 +35,4 @@ To create an interactive BFSI analytics dashboard that converts customer and fin
 🔹**Support data-driven decisions** by bringing multiple BFSI KPIs into one interactive analytical view.
 
 ## 5. 📸Screenshot
-
+![Alt Text](https://github.com/hritik1910/BFSI_SQL/blob/986d4ac24c83979bb06918bef272a7ed9ad5d042/BFSI_Level_Intermediate_2.png)
